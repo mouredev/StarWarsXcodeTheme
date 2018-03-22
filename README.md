@@ -3,7 +3,7 @@
 # Star Wars: A Dark(side) or Light(side) theme for [Xcode](https://developer.apple.com/xcode/)
 [![Web](https://img.shields.io/badge/website-MoureDev.com-blue.svg?style=for-the-badge)](http://mouredev.com/)
 [![Twitter](https://img.shields.io/badge/twitter-@MoureDev-blue.svg?style=for-the-badge)](https://twitter.com/MoureDev)
-![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)
+[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)](https://github.com/mouredev/StarWarsXcodeTheme/blob/master/LICENSE)
 
 ![Star Wars Xcode theme](./Images/Star_Wars_Xcode_Theme_Colors.png)
 
